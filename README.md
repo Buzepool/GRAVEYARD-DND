@@ -1,6 +1,6 @@
 # Cemitério DND
 
-Esta é uma aplicação de exemplo para gerenciar personagens de Dungeons & Dragons.
+Esta é uma aplicação simples para gerenciar personagens de Dungeons & Dragons.
 
 ## Como usar
 
