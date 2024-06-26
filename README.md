@@ -6,7 +6,7 @@ Esta é uma aplicação simples para gerenciar personagens de Dungeons & Dragons
 
 1. Baixe a versão mais recente da aba [Releases](https://github.com/Buzepool/GRAVEYARD-DND/releases/tag/v.0.1).
 2. Extraia o conteúdo do arquivo ZIP.
-3. Navegue até a pasta extraída e execute o arquivo `GraveYard.exe`.
+3. Navegue até a pasta extraída e execute o arquivo `Cemitério DND.exe`.
 
 ## Desenvolvimento
 
@@ -20,8 +20,10 @@ This is a sample application for managing Dungeons & Dragons characters.
 
 1. Download the latest version from the [Releases](https://github.com/Buzepool/GRAVEYARD-DND/releases/tag/v.0.1) tab.
 2. Extract the contents of the ZIP file.
-3. Navigate to the extracted folder and run the `GraveYard.exe` file.
+3. Navigate to the extracted folder and run the `Cemitério DND.exe` file.
 
 ## Development
 
 If you want to contribute or modify this project, navigate to the `Cemitério DND.sln/` folder and open the project in Visual Studio.
+
+![image](https://github.com/Buzepool/GRAVEYARD-DND/assets/94470731/ecac299b-4ea7-4450-9e6b-1c08608b4e3b)
