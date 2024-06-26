@@ -10,7 +10,7 @@ Esta é uma aplicação simples para gerenciar personagens de Dungeons & Dragons
 
 ## Desenvolvimento
 
-Se você quiser contribuir ou modificar este projeto, navegue até a pasta `src/` e abra o projeto no Visual Studio.
+Se você quiser contribuir ou modificar este projeto, navegue até a pasta `Cemitério DND.sln/` e abra o projeto no Visual Studio.
 
 # Graveyard DND
 
@@ -24,4 +24,4 @@ This is a sample application for managing Dungeons & Dragons characters.
 
 ## Development
 
-If you want to contribute or modify this project, navigate to the `src/` folder and open the project in Visual Studio.
+If you want to contribute or modify this project, navigate to the `Cemitério DND.sln/` folder and open the project in Visual Studio.
