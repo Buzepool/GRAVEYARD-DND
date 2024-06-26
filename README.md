@@ -4,7 +4,7 @@ Esta é uma aplicação de exemplo para gerenciar personagens de Dungeons & Drag
 
 ## Como usar
 
-1. Baixe a versão mais recente da aba [Releases]([https://github.com/username/repository/releases](https://github.com/Buzepool/GRAVEYARD-DND/releases/tag/v.0.1)).
+1. Baixe a versão mais recente da aba [Releases](https://github.com/Buzepool/GRAVEYARD-DND/releases/tag/v.0.1).
 2. Extraia o conteúdo do arquivo ZIP.
 3. Navegue até a pasta extraída e execute o arquivo `SeuProjeto.exe`.
 
